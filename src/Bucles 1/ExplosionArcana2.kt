@@ -1,4 +1,4 @@
-package Bucles
+package `Bucles 1`
 
 import java.util.*
 fun main() {

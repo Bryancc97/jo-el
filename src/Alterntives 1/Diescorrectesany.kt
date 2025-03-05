@@ -1,4 +1,4 @@
-package Alterntives1
+package `Alterntives 1`
 
 import java.util.*
 
